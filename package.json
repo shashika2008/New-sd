@@ -46,7 +46,7 @@
     "adm-zip": "^0.5.16",
     "hirunews-scrap": "^1.1.0",
     "rss-parser": "^3.14.0",
-    "google-translate-api-x": "^2^.8.0",
+    "google-translate-api-x": "^2.8.0",
     "moment-timezone": "^0.5.46",
     "node-cache": "^5.1.2",
     "darksadasyt-imgbb-scraper": "^1.0.0",
